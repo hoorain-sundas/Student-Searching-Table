@@ -1,0 +1,8 @@
+.parent{
+    border: 2px solid black;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+h1{
+    color: green;
+}
